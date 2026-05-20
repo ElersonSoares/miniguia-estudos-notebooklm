@@ -94,8 +94,6 @@ DFC: detalha o fluxo de caixa (operações, investimentos, financiamentos).
 DMPL: acompanha as mudanças no patrimônio líquido.
 
 
-Claro, Geh — fiz um glossário direto ao ponto, mas com uma linguagem mais humana pra te ajudar a realmente entender e não só decorar:
-
 ---
 
 # 📘 **Glossário – Contabilidade Aplicada ao Setor Público (CASP)**
@@ -157,7 +155,6 @@ Mostra a movimentação do caixa dividida em:
 * Financiamento
 
 
-# Glossario
 ---
 
 ### **DMPL (Demonstração das Mutações do Patrimônio Líquido)**
@@ -260,7 +257,161 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-Se quiser, posso fazer uma versão “nível prova” (tipo questões estilo concurso) ou uma versão com exemplos reais do seu dia a dia na prefeitura — isso costuma fazer tudo “clicar” de vez.
+Boa, Geh — isso aqui vai te ajudar muito mesmo. Montei um **kit de prompts reutilizáveis** que você pode usar sempre que for revisar CASP, estudar pra prova ou tirar dúvidas rápidas. É só copiar, colar e adaptar.
 
+---
+
+# 🧠 **Prompts**
+
+## 📌 1. Entendimento básico (quando estiver perdido)
+
+**Prompt:**
+
+> Explique [TEMA] da CASP de forma simples, como se eu fosse iniciante. Use exemplos práticos do dia a dia de uma prefeitura.
+
+👉 Use para: PCASP, empenho, VPA/VPD, balanços, etc.
+
+---
+
+## 📌 2. Explicação com foco no seu trabalho
+
+**Prompt:**
+
+> Explique [TEMA] da CASP relacionando com rotinas reais de contabilidade pública municipal (SICOM, prestação de contas, empenhos, etc.).
+
+👉 Ideal pra conectar teoria com sua realidade.
+
+---
+
+## 📌 3. Comparações (ótimo pra prova)
+
+**Prompt:**
+
+> Compare [CONCEITO 1] e [CONCEITO 2] na CASP, destacando diferenças, exemplos e pegadinhas de prova.
+
+👉 Exemplos:
+
+* Regime de caixa x competência
+* VPA x VPD
+* Orçamentário x patrimonial
+
+---
+
+## 📌 4. Resumo estruturado
+
+**Prompt:**
+
+> Faça um resumo estruturado e objetivo sobre [TEMA] da CASP, com tópicos e linguagem simples.
+
+---
+
+## 📌 5. Resumo ultra rápido (revisão antes da prova)
+
+**Prompt:**
+
+> Resuma [TEMA] da CASP em no máximo 5 tópicos, focando no que mais cai em prova.
+
+---
+
+## 📌 6. Mapa mental (visual)
+
+**Prompt:**
+
+> Crie um mapa mental em formato de texto sobre [TEMA] da CASP, com hierarquia clara e conexões.
+
+---
+
+## 📌 7. Exemplos práticos
+
+**Prompt:**
+
+> Dê 3 exemplos práticos de [TEMA] na rotina de um setor de contabilidade pública.
+
+---
+
+## 📌 8. Treino com questões
+
+**Prompt:**
+
+> Crie 5 questões de múltipla escolha sobre [TEMA] da CASP, com gabarito comentado.
+
+👉 Excelente pra fixação.
+
+---
+
+## 📌 9. Identificação de erros (nível avançado)
+
+**Prompt:**
+
+> Crie afirmações sobre [TEMA] da CASP, sendo algumas corretas e outras erradas, e explique o porquê.
+
+---
+
+## 📌 10. Tradução “contábil → português claro”
+
+**Prompt:**
+
+> Traduza o seguinte texto técnico de CASP para uma linguagem simples e fácil de entender:
+> [COLE O TEXTO]
+
+---
+
+## 📌 11. Revisão ativa (método poderoso)
+
+**Prompt:**
+
+> Me faça perguntas sobre [TEMA] da CASP uma por vez e espere minha resposta antes de continuar.
+
+👉 Isso aqui é ouro pra memorização.
+
+---
+
+## 📌 12. Checklist de estudo
+
+**Prompt:**
+
+> Crie um checklist com tudo que preciso saber sobre [TEMA] da CASP para não errar em prova.
+
+---
+
+## 📌 13. Ligação entre conceitos
+
+**Prompt:**
+
+> Explique como [TEMA 1] se conecta com [TEMA 2] dentro da CASP.
+
+👉 Ex:
+
+* PCASP x Demonstrações
+* Empenho x VPD
+
+---
+
+## 📌 14. Explicação passo a passo
+
+**Prompt:**
+
+> Explique passo a passo como funciona [PROCESSO], desde o início até o registro contábil final.
+
+👉 Ex:
+
+* Execução da despesa
+* Arrecadação da receita
+
+---
+
+## 📌 15. “Me ensine como professor”
+
+**Prompt:**
+
+> Me dê uma aula curta sobre [TEMA] da CASP, com didática simples e exemplos, como se fosse um professor experiente.
+
+---
+
+# 💡 Dica importante (de verdade)
+
+Se você usar esses prompts em sequência (ex: **explicação → exemplos → questões → revisão ativa**), seu aprendizado acelera MUITO.
+
+---
 
 
