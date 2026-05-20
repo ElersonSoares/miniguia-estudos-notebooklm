@@ -2,6 +2,7 @@
 A Contabilidade Aplicada ao Setor Público (CASP) é o ramo da ciência contábil focado no controle, registro e demonstração do patrimônio e da execução do orçamento dos entes públicos. Seu principal objetivo é gerar informações precisas para a tomada de decisões, prestação de contas e controle social.
 
 Objetivos de Estudo para a Contabilidade Aplicada ao Setor Público (CASP)
+
 1. Compreender os Fundamentos de Finanças e Orçamento Público
 2. Diferenciar as Dinâmicas de Receitas e Despesas
 3. Internalizar os Conceitos e Objetos da CASP
@@ -9,7 +10,9 @@ Objetivos de Estudo para a Contabilidade Aplicada ao Setor Público (CASP)
 5. Aplicar o Plano de Contas Aplicado ao Setor Público (PCASP)
 6. Interpretar as Demonstrações Contábeis (DCASP)
 
-Links referência:
+---
+
+# **Links referência:**
 https://sibiuni.unilab.edu.br/wp-content/uploads/2023/05/PNAP-Bacharelado-Contabilidade-aplicada-ao-setor-publico.pdf
 
 https://educapes.capes.gov.br/bitstream/capes/719519/2/Contabilidade%20Aplicada%20ao%20setor%20publico.pdf
@@ -20,10 +23,11 @@ https://thot-arquivos.tesouro.gov.br/publicacao/51045
 
 https://www.gestaopublica.com.br/wp-content/uploads/2022/10/contabilidade-aplicada-ao-setor-publico-2o-edicao.pdf
 
+---
 
-Consolidando o Pensamento:
+# **Consolidando o Pensamento:**
 
-1. Conceito e Objetos da CASP
+## **1. Conceito e Objetos da CASP**
 
 A Contabilidade Aplicada ao Setor Público (CASP) é a área da contabilidade voltada para registrar e acompanhar tudo o que acontece na administração pública. Ela segue regras do Direito Financeiro e das normas contábeis brasileiras.
 
@@ -33,7 +37,9 @@ Patrimônio Público: tudo que o governo possui e deve (bens, direitos e obriga�
 Orçamento Público: o planejamento legal que define quanto o governo espera arrecadar e gastar.
 Atos Administrativos: ações que ainda não afetam o patrimônio, mas podem impactar no futuro (como contratos assinados).
 
-2. Os Três Aspectos da Contabilidade Pública
+---
+
+## **2. Os Três Aspectos da Contabilidade Pública**
 
 Segundo o MCASP, tudo na contabilidade pública deve ser analisado por três ângulos:
 
@@ -41,7 +47,9 @@ Orçamentário: acompanha o orçamento desde a aprovação até a execução (o 
 Patrimonial: observa as mudanças no patrimônio, usando o regime de competência (quando o fato acontece, não quando paga/recebe).
 Fiscal: foca nos indicadores exigidos pela Lei de Responsabilidade Fiscal, como gastos com pessoal e endividamento.
 
-3. Regimes Contábeis: Como Funcionam
+---
+
+## **3. Regimes Contábeis: Como Funcionam**
 
 Na CASP, convivem dois regimes ao mesmo tempo:
 
@@ -51,8 +59,9 @@ Despesa → reconhecida no empenho (compromisso assumido).
 Regime Contábil (competência):
 Tudo é registrado quando acontece o fato gerador, independentemente de pagamento ou recebimento.
 
+---
 
-4. Variações Patrimoniais
+## **4. Variações Patrimoniais**
 
 Aqui é onde vemos se o “governo ficou mais rico ou mais pobre”:
 
@@ -64,7 +73,9 @@ VPD (Variações Patrimoniais Diminutivas):
 Reduzem o patrimônio.
 Exemplos: salários, consumo de materiais, depreciação.
 
-5. PCASP (Plano de Contas)
+---
+
+## **5. PCASP (Plano de Contas)**
 
 O PCASP organiza todas as contas públicas de forma padronizada no Brasil inteiro.
 
@@ -76,13 +87,15 @@ Passivo
 VPD
 VPA
 Orçamentária:
-5. Planejamento e orçamento
-6. Execução
+* Planejamento e orçamento
+* Execução
 Controle:
-7. Controles devedores
-8. Controles credores
+* Controles devedores
+* Controles credores
 
-6. Demonstrações Contábeis (DCASP)
+---
+
+## **6. Demonstrações Contábeis (DCASP)**
 
 São os relatórios que mostram a situação do governo com transparência:
 
@@ -257,10 +270,6 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-Boa, Geh — isso aqui vai te ajudar muito mesmo. Montei um **kit de prompts reutilizáveis** que você pode usar sempre que for revisar CASP, estudar pra prova ou tirar dúvidas rápidas. É só copiar, colar e adaptar.
-
----
-
 # 🧠 **Prompts**
 
 ## 📌 1. Entendimento básico (quando estiver perdido)
@@ -407,11 +416,4 @@ Boa, Geh — isso aqui vai te ajudar muito mesmo. Montei um **kit de prompts reu
 > Me dê uma aula curta sobre [TEMA] da CASP, com didática simples e exemplos, como se fosse um professor experiente.
 
 ---
-
-# 💡 Dica importante (de verdade)
-
-Se você usar esses prompts em sequência (ex: **explicação → exemplos → questões → revisão ativa**), seu aprendizado acelera MUITO.
-
----
-
 
