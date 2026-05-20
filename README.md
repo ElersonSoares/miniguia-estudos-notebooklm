@@ -94,3 +94,173 @@ DFC: detalha o fluxo de caixa (operações, investimentos, financiamentos).
 DMPL: acompanha as mudanças no patrimônio líquido.
 
 
+Claro, Geh — fiz um glossário direto ao ponto, mas com uma linguagem mais humana pra te ajudar a realmente entender e não só decorar:
+
+---
+
+# 📘 **Glossário – Contabilidade Aplicada ao Setor Público (CASP)**
+
+### **Atos Administrativos**
+
+Ações da administração que ainda não afetam o patrimônio, mas podem impactar no futuro.
+👉 Ex: assinatura de contrato.
+
+---
+
+### **Ativo**
+
+Tudo que o ente público possui ou tem a receber.
+👉 Ex: dinheiro em caixa, imóveis, impostos a receber.
+
+---
+
+### **Balanço Financeiro**
+
+Relatório que mostra todo o dinheiro que entrou e saiu, incluindo valores orçamentários e extraorçamentários.
+
+---
+
+### **Balanço Orçamentário**
+
+Compara o que foi planejado no orçamento com o que realmente aconteceu.
+👉 Previsto x arrecadado / fixado x executado.
+
+---
+
+### **Balanço Patrimonial**
+
+Mostra a situação do patrimônio em um momento específico (tipo uma “foto”).
+👉 Divide em Ativo e Passivo.
+
+---
+
+### **CASP**
+
+Contabilidade Aplicada ao Setor Público.
+👉 É a contabilidade voltada para órgãos públicos.
+
+---
+
+### **Competência (Regime)**
+
+Registra os fatos no momento em que acontecem, mesmo sem pagamento ou recebimento.
+👉 Ex: reconhece uma despesa mesmo antes de pagar.
+
+---
+
+### **DFC (Demonstração dos Fluxos de Caixa)**
+
+Mostra a movimentação do caixa dividida em:
+
+* Operacional
+* Investimento
+* Financiamento
+
+
+# Glossario
+---
+
+### **DMPL (Demonstração das Mutações do Patrimônio Líquido)**
+
+Mostra como o patrimônio líquido mudou ao longo do tempo.
+
+---
+
+### **DVP (Demonstração das Variações Patrimoniais)**
+
+Apura se houve ganho ou perda patrimonial no período.
+👉 VPA – VPD = resultado (superávit ou déficit).
+
+---
+
+### **Empenho**
+
+Ato que reserva o dinheiro para pagar uma despesa.
+👉 É o primeiro estágio da despesa.
+
+---
+
+### **Execução Orçamentária**
+
+É quando o orçamento começa a “acontecer” na prática (arrecadar receitas e realizar despesas).
+
+---
+
+### **MCASP**
+
+Manual que orienta como aplicar a contabilidade no setor público.
+
+---
+
+### **Orçamento Público**
+
+Planejamento anual que define quanto o governo espera arrecadar e gastar.
+
+---
+
+### **Passivo**
+
+Obrigações do ente público.
+👉 Ex: dívidas, fornecedores a pagar.
+
+---
+
+### **Patrimônio Público**
+
+Conjunto de bens, direitos e obrigações do governo.
+
+---
+
+### **PCASP**
+
+Plano de Contas padronizado usado por todos os entes públicos no Brasil.
+
+---
+
+### **Receita Orçamentária**
+
+Dinheiro que entra nos cofres públicos.
+👉 Ex: impostos, transferências.
+
+---
+
+### **Regime de Caixa**
+
+Registra apenas quando o dinheiro entra ou sai.
+
+---
+
+### **Regime Orçamentário**
+
+Modelo misto:
+
+* Receita → caixa
+* Despesa → empenho
+
+---
+
+### **Resultado Patrimonial**
+
+Diferença entre ganhos (VPA) e perdas (VPD).
+👉 Mostra se houve lucro ou prejuízo público.
+
+---
+
+### **Variações Patrimoniais Aumentativas (VPA)**
+
+Entradas que aumentam o patrimônio.
+👉 Ex: arrecadação de impostos.
+
+---
+
+### **Variações Patrimoniais Diminutivas (VPD)**
+
+Saídas que reduzem o patrimônio.
+👉 Ex: pagamento de salários.
+
+---
+
+Se quiser, posso fazer uma versão “nível prova” (tipo questões estilo concurso) ou uma versão com exemplos reais do seu dia a dia na prefeitura — isso costuma fazer tudo “clicar” de vez.
+
+
+
