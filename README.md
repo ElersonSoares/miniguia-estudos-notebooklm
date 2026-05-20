@@ -11,9 +11,13 @@ Objetivos de Estudo para a Contabilidade Aplicada ao Setor Público (CASP)
 
 Links referência:
 https://sibiuni.unilab.edu.br/wp-content/uploads/2023/05/PNAP-Bacharelado-Contabilidade-aplicada-ao-setor-publico.pdf
+
 https://educapes.capes.gov.br/bitstream/capes/719519/2/Contabilidade%20Aplicada%20ao%20setor%20publico.pdf
+
 https://www.youtube.com/watch?v=_bQZgM3XNeM
+
 https://thot-arquivos.tesouro.gov.br/publicacao/51045
+
 https://www.gestaopublica.com.br/wp-content/uploads/2022/10/contabilidade-aplicada-ao-setor-publico-2o-edicao.pdf
 
 
