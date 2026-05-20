@@ -27,7 +27,7 @@ https://www.gestaopublica.com.br/wp-content/uploads/2022/10/contabilidade-aplica
 
 # **Consolidando o Pensamento:**
 
-## **1. Conceito e Objetos da CASP**
+### **1. Conceito e Objetos da CASP**
 
 A Contabilidade Aplicada ao Setor Público (CASP) é a área da contabilidade voltada para registrar e acompanhar tudo o que acontece na administração pública. Ela segue regras do Direito Financeiro e das normas contábeis brasileiras.
 
@@ -39,7 +39,7 @@ Atos Administrativos: ações que ainda não afetam o patrimônio, mas podem imp
 
 ---
 
-## **2. Os Três Aspectos da Contabilidade Pública**
+### **2. Os Três Aspectos da Contabilidade Pública**
 
 Segundo o MCASP, tudo na contabilidade pública deve ser analisado por três ângulos:
 
@@ -49,7 +49,7 @@ Fiscal: foca nos indicadores exigidos pela Lei de Responsabilidade Fiscal, como 
 
 ---
 
-## **3. Regimes Contábeis: Como Funcionam**
+### **3. Regimes Contábeis: Como Funcionam**
 
 Na CASP, convivem dois regimes ao mesmo tempo:
 
@@ -61,7 +61,7 @@ Tudo é registrado quando acontece o fato gerador, independentemente de pagament
 
 ---
 
-## **4. Variações Patrimoniais**
+### **4. Variações Patrimoniais**
 
 Aqui é onde vemos se o “governo ficou mais rico ou mais pobre”:
 
@@ -75,7 +75,7 @@ Exemplos: salários, consumo de materiais, depreciação.
 
 ---
 
-## **5. PCASP (Plano de Contas)**
+### **5. PCASP (Plano de Contas)**
 
 O PCASP organiza todas as contas públicas de forma padronizada no Brasil inteiro.
 
@@ -95,7 +95,7 @@ Controle:
 
 ---
 
-## **6. Demonstrações Contábeis (DCASP)**
+### **6. Demonstrações Contábeis (DCASP)**
 
 São os relatórios que mostram a situação do governo com transparência:
 
@@ -272,7 +272,7 @@ Saídas que reduzem o patrimônio.
 
 # 🧠 **Prompts**
 
-## 📌 1. Entendimento básico (quando estiver perdido)
+## 📌 1. Entendimento básico
 
 **Prompt:**
 
@@ -292,7 +292,7 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-## 📌 3. Comparações (ótimo pra prova)
+## 📌 3. Comparações
 
 **Prompt:**
 
@@ -314,7 +314,7 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-## 📌 5. Resumo ultra rápido (revisão antes da prova)
+## 📌 5. Resumo ultra rápido
 
 **Prompt:**
 
@@ -322,7 +322,7 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-## 📌 6. Mapa mental (visual)
+## 📌 6. Mapa mental
 
 **Prompt:**
 
@@ -348,7 +348,7 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-## 📌 9. Identificação de erros (nível avançado)
+## 📌 9. Identificação de erros
 
 **Prompt:**
 
@@ -365,7 +365,7 @@ Saídas que reduzem o patrimônio.
 
 ---
 
-## 📌 11. Revisão ativa (método poderoso)
+## 📌 11. Revisão
 
 **Prompt:**
 
